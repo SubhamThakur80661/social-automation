@@ -1,6 +1,6 @@
-# 🚀 SocialAnywhere - AI-Powered Social Media Management Platform
+# 🚀 Social-Automation - AI-Powered Social Media Management Platform
 
-**SocialAnywhere** is a comprehensive social media automation platform that enables users to manage, schedule, and analyze content across multiple platforms (Facebook, Instagram, Twitter, Reddit, LinkedIn) from a single unified dashboard. Built with AI-powered content generation, automated scheduling, and real-time analytics.
+**Social Automation** is a comprehensive social media automation platform that enables users to manage, schedule, and analyze content across multiple platforms (Facebook, Instagram, Twitter, Reddit, LinkedIn) from a single unified dashboard. Built with AI-powered content generation, automated scheduling, and real-time analytics.
 
 ![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
